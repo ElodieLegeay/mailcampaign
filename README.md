@@ -1,1 +1,1 @@
-Lien du Github équipe Nice ---->  [a link](ttps://github.com/Nymze/growth-hack_project)
+Lien du Github équipe Nice ---->  [Growth-hack-project](ttps://github.com/Nymze/growth-hack_project)
